@@ -1,3 +1,3 @@
 # Software-Anpassung-Prozess
 
-Prozess zur Anpassung einer Sowtware!
+Prozess zur Anpassung einer Software!
